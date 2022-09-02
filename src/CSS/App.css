@@ -1,0 +1,14 @@
+body {
+   background-image: linear-gradient(50deg,#5d51bf,#a95df4);
+   background-repeat: no-repeat;
+   min-height: 100vh;
+}
+.main {
+   margin: 35px 0px 0px 0px;
+   min-height: 99vh;
+   display: block;
+   border: 0px solid black;
+   font-family: Sans-Serif;
+   padding: 10px;
+   box-sizing: border-box;
+}
